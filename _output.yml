@@ -1,0 +1,14 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    fontsettings:
+      # theme: night
+      family: sans
+      size: 2
+    toc:
+      before: |
+        <li><a href="./">Meu website pessoal</a></li>
+        <center><img src="perfil.jpeg" width="120" height="140" ></center>
+        <center>Msc. Esp. Gabriel Danilo Shimizu</center>
+    download: ["pdf", "epub"]
+

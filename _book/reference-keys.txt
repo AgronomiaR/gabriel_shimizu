@@ -1,0 +1,11 @@
+home
+about
+assessorias
+cursos
+r
+projetos
+projetos-de-pesquisa
+projetos-de-extensão
+projetos-de-ensino
+meus-packages-r
+currículo

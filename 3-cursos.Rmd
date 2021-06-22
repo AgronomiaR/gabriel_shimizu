@@ -1,0 +1,43 @@
+# Cursos
+
+ - **Introdução ao software R nas ciências agrárias e biológicas** (Curso ministrado em Maio/Junho pelo google meet)
+ 
+<br>
+ 
+ - **Introdução ao software R com ênfase em ciência do solo** (Curso ministrado em Julho/2019 ao laboratório de solos da UEL)
+ 
+<center>
+![](solos1.jpg){width=20%} ![](solos3.jpg){width=20%} ![](solos4.jpg){width=20%} ![](solos6.jpg){width=27%}
+</center>
+
+<br>
+
+ - **Introdução ao software R aplicado à Agronomia** (Curso ministrado em Junho/2019 ao programa de pós-graduação em Agronomia da UEL) 
+ 
+<center>
+
+![](CURSO6.jpg){width=24.8%} ![](CURSO7.jpg){width=18.85%} ![](CURSO9.jpg){width=24.9%} ![](CURSO16.jpg){width=18.85%} 
+
+</center>
+
+<br>
+
+ - **II Curso básico do R aplicado à Agronomia** (Curso ministrado em Março/2019 no departamento de estatística da UEL)
+ 
+<center> 
+![](FOTO1.jpeg){width=22%} ![](FOTO2.jpeg){width=22%} ![](FOTO5.jpeg){width=22%} ![](FOTO6.jpeg){width=22%}
+</center>
+
+<br>
+
+ - **Criação de documentos dinâmicos utilizando o Markdown do software R** (Curso ministrado em Setembro/2018 no departamento de estatística da UEL)
+
+<center> 
+![](CURSO1.jpg){width=20%} ![](CURSO2.jpg){width=32.2%} ![](CURSO3.jpg){width=36%}
+</center>
+
+<br>
+
+ - **Introdução ao Rmarkdown** (Curso ministrado em Abril/2018 ao programa de pós-graduação em Agronomia da UEL)
+
+<br><br>

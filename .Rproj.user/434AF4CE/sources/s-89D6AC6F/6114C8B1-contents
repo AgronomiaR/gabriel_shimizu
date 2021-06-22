@@ -1,0 +1,13 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    fontsettings:
+      # theme: night
+      family: sans
+      size: 2
+    toc:
+      before: |
+        <li><a href="./">Introdução ao pacote AgroR</a></li>
+        <center><img src="https://raw.githubusercontent.com/cran/AgroR/master/man/figures/logo.png" width="120" height="140" ></center>
+    download: ["pdf", "epub"]
+
