@@ -16,10 +16,14 @@ knitr::opts_chunk$set(echo = TRUE, warning = F,message = F)
 
 # Home
 
+
 <div class="alert alert-info">
-**Resumo do currículo**: Engenheiro Agrônomo, Engenheiro Agrônomo, pós-graduado em nível de especialização em Estatística com Ênfase em Pesquisa Quantitativa. Atualmente é Mestre em Agronomia (Fitotecnia: Fruticultura) pela Universidade Estadual de Londrina.
+Olá, seja bem-vindo ao meu website pessoal. Aqui você pode se atualizar das atividades que estou desenvolvendo dentro e fora do contexto do meu doutorado, minhas publicações, assessoriais, cursos, pacotes e muito mais. 
 </div>
 
-**Experiência**: Tem experiência nas áreas de fitotecnia (Fruticultura), estatística e experimentação agronômica. Possui conhecimento em linguagem <i>R</i>, <i>CSS</i>, <i>Markdown</i> e <i>LaTex</i>, em especial a elaboração de documentos dinâmicos com <i>RMarkdown</i>. 
+<div class="alert alert-info">
+**Resumo do currículo**: Engenheiro Agrônomo, pós-graduado em nível de especialização em Estatística com Ênfase em Pesquisa Quantitativa, Mestre em Agronomia (Fitotecnia: Fruticultura) pela Universidade Estadual de Londrina, atualmente doutorando em Agronomia.Tenho experiência nas áreas de fitotecnia (Fruticultura), estatística e experimentação agronômica, com conhecimento em linguagem <i>R</i>, <i>CSS</i>, <i>Markdown</i> e <i>LaTex</i>, em especial a elaboração de documentos dinâmicos com <i>RMarkdown</i> e a criação de pacotes em linguagem R. 
 
-**e-mail**: shimizu@uel.br
+</div>
+
+Para mais informações: shimizu@uel.br

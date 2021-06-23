@@ -1,9 +1,11 @@
 # Assessorias
 
+<center>
+
 ```{r,echo=F, fig.width=4, fig.height=3, fig.align='center', warning=F,message=F}
 library(plotly)
 library(dplyr)
-dados=data.frame(Frequência=c(14,44,61,10),
+dados=data.frame(Frequência=c(14,44,61,30),
                  Ano= c("2018","2019","2020","2021"))
 plot_ly(data = dados) %>%
   add_trace(x = ~ Ano,
@@ -16,7 +18,7 @@ plot_ly(data = dados) %>%
 ```
 
 ```{r,echo=F, fig.width=4, fig.height=3, fig.align='center', warning=F,message=F}
-dados=data.frame(Frequência=c(9,120),
+dados=data.frame(Frequência=c(9,140),
                  Área= c("Outras","Agronomia"))
 plot_ly(data = dados) %>%
   add_trace(x = ~ Área,
@@ -31,8 +33,8 @@ plot_ly(data = dados) %>%
 ```{r,echo=F, fig.width=4, fig.height=3,fig.align='center', warning=F,message=F}
 library(plotly)
 library(dplyr)
-dados=data.frame(Frequência=c(1,3,3),
-                 Ano= c("2018","2019","2020"))
+dados=data.frame(Frequência=c(1,3,3,1),
+                 Ano= c("2018","2019","2020","2021"))
 plot_ly(data = dados) %>%
   add_trace(x = ~ Ano,
             y = ~ Frequência,
@@ -42,3 +44,5 @@ plot_ly(data = dados) %>%
             marker=list(color=c("red","blue","green")))%>%
   layout(yaxis = list(title="Frequência de cursos"))
 ```
+
+</center>
