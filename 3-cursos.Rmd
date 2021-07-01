@@ -1,5 +1,9 @@
 # Cursos
 
+ - **Introdução ao pacote AgroR**([Acesse](https://agronomiar.github.io/AgroR_Tutorial/index.html))([gravação](https://drive.google.com/file/d/1id12HTfci51aWEH_V9FVsCtTXrX9kCqx/view))
+ 
+ - **Conheça o R: Introdução, dicas e curiosidades** ([Acesse](https://agronomiar.github.io/Curso1/))([gravação](https://drive.google.com/file/d/1w1po_fZydBR0JSoFSFrcpIY1KCDUv3ZH/view?ts=6051604e))
+ 
  - **Introdução ao software R nas ciências agrárias e biológicas** (Curso ministrado em Maio/Junho pelo google meet)
  
 <br>

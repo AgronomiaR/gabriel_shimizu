@@ -1,5 +1,7 @@
 # Assessorias
 
+Uma das atividades que estou desenvolvendo é a assessoria acadêmica com ênfase em análise estatística. Faço assessorias com graduandos e pós-graduandos, bem como professores e outras pessoas ligadas a pesquisa. 
+
 <center>
 
 ```{r,echo=F, fig.width=4, fig.height=3, fig.align='center', warning=F,message=F}

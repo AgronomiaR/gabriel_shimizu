@@ -134,7 +134,7 @@ Coordenador: RODRIGO ROSSETO PESCIM
 
 *Descrição*: Este projeto pretende atender a pesquisadores, estudantes e instituições públicas e privadas, sendo coordenado e executado pelos professores do departamento de estatística desta universidade, com auxílio de estagiários. O objetivo deste projeto de assessoria é a orientação da pesquisa científica em todas as suas etapas: dimensionamento de amostra, validação do instrumento de coleta de dados e análise de resultados estatísticos através de programas (softwares) específicos nas diversas áreas do conhecimento humano; ciências da saúde, ciências biológicas, ciências sociais aplicadas, ciências humanas e ciências exatas. Nesse sentido, a troca de experiências entre os professores, pesquisadores e alunos envolvidos é de suma importância, pois possibilita a verificação das teorias estatísticas aplicadas na prática de diferentes áreas do conhecimento. Do mesmo modo, busca-se esclarecer a população da importância da estatística para validação da pesquisa científica como um todo, elucidando a validação, os termos, os métodos e os testes estatísticos, assim como disponibilizar um site com conteúdos da área de estatística e do software R.
 
-Coordenadora: MARIANA RAGASSI URBANO
+**Coordenadora**: MARIANA RAGASSI URBANO
 
 ****
 
@@ -160,7 +160,7 @@ Coordenadora: MARIANA RAGASSI URBANO
 
 *Descrição*: O curso de agronomia da universidade estadual de londrina, criado em 1978, formou até o presente mais de 1.200 engenheiros agrônomos. a partir de sua implantação passou por modificações curriculares. A primeira, em 1985, teve como objetivo adequar o currículo ao mínimo definido pelo ministério da educação. A segunda, em 1992, quando a universidade estadual de londrina passou do sistema de matrícula por disciplinas para o regime seriado anual. na grade curricular do regime seriado anual, foi implantada a atividade de trabalho de conclusão de curso, onde na 5ª série são desenvolvidas atividades que culminam na apresentação de um trabalho perante uma banca examinadora. Em 1996, portanto, foram apresentados os primeiros trabalhos de conclusão de curso como requisito à avaliação à disciplina 3 AGR 021, atualmente 6 AGR 704. O objetivo deste projeto é realizar um levantamento dos trabalhos de conclusão de curso apresentados a partir de 1996, resgatar os trabalhos armazenados em diferentes locais (bibliotecas, orientadores) e colocar para consultas na sua integra com uma análise de acordo com a área/assunto e espécies escolhidas pelos alunos.
 
-Coordenadora: LUCIA SADAYO ASSARI TAKAHASHI
+**Coordenadora**: LUCIA SADAYO ASSARI TAKAHASHI
 
 
 # Minhas publicações
@@ -217,15 +217,15 @@ PACHECO, C. A.; SCHINOR, E. H.; AZEVEDO, F. A.; SHIMIZU, G. D.; BASTIANEL, M.; C
 
 ****
 
-KATO, D. S.; SILVA, C. M.; HIGUCHI, M. T.; BAUCHROWITZ, I. M.; SANTOS NETO, J.; SHIMIZU, G. D.; OLIVEIRA, A. F.. Produção de mudas de maracujá amarelo submetidos a doses crescentes de adubação de liberação lenta. TERRA E CULTURA, v. 34, p. 310-320, 2018. [Acesse](http://periodicos.unifil.br/index.php/Revistateste/article/view/510)
+KATO, D. S.; SILVA, C. M.; HIGUCHI, M. T.; BAUCHROWITZ, I. M.; SANTOS NETO, J.; SHIMIZU, G. D.; OLIVEIRA, A. F.. Produção de mudas de maracujá amarelo submetidos a doses crescentes de adubação de liberação lenta. *TERRA E CULTURA*, v. 34, p. 310-320, 2018. [Acesse](http://periodicos.unifil.br/index.php/Revistateste/article/view/510)
 
 ****
 
-SHIMIZU, G. D.; VIDAL, T. C. M. . Dissimilaridade genética entre genótipos de romã oriundos do norte do Paraná. Actas Portuguesas de Horticultura, v. 29, p. 93, 2017. [Acesse](https://aph.aphorticultura.pt/wp-content/uploads/2019/10/dissimilaridade_gen%C3%A9tica_entre_gen%C3%B3tipos_de_rom%C3%A3_oriundos_do.pdf)
+SHIMIZU, G. D.; VIDAL, T. C. M. . Dissimilaridade genética entre genótipos de romã oriundos do norte do Paraná. *Actas Portuguesas de Horticultura*, v. 29, p. 93, 2017. [Acesse](https://aph.aphorticultura.pt/wp-content/uploads/2019/10/dissimilaridade_gen%C3%A9tica_entre_gen%C3%B3tipos_de_rom%C3%A3_oriundos_do.pdf)
 
 ****
 
-SUMIDA, C. H. ; SHIMIZU, G. D. ; CANTERI, M. G. ; GIGLIOTI, E. A. . Aplicação Rentável. CULTIVAR GRANDES CULTURAS, v. 199, p. 28-29, 2015.
+SUMIDA, C. H. ; SHIMIZU, G. D. ; CANTERI, M. G. ; GIGLIOTI, E. A. . Aplicação Rentável. *CULTIVAR GRANDES CULTURAS*, v. 199, p. 28-29, 2015.
 
 ****
 
