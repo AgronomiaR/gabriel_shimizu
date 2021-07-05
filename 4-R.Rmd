@@ -2,7 +2,7 @@
 
 **O que é o R?**
 
-![](r.png){width=70%}
+![](r.png){width=30%}
 
 
 R é um ambiente computacional e uma linguagem de programação especializada em manipulação, análise e visualização gráfica de dados. O ambiente está disponível para diferentes sistemas operacionais: Unix/Linux, Mac e Windows. Foi criado originalmente por Ross Ihaka e por Robert Gentleman no departamento de Estatística da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de pessoas em vários locais do mundo.

@@ -9,5 +9,6 @@ projetos-de-extensão
 projetos-de-ensino
 minhas-publicações
 artigos
+trabalhos-completos
 meus-packages-r
 currículo
